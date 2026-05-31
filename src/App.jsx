@@ -153,7 +153,7 @@ export default function Portfolio() {
           <div className="mt-8 flex flex-wrap justify-center gap-4 text-sm text-slate-300">
             <span>📧 dwiki.adicitra6@gmail.com</span>
             <span>📱 +62 812-2866-9806</span>
-            <span>📍 Jakarta / Bogor, Indonesia</span>
+            <span>📍 Jakarta, Indonesia</span>
           </div>
         </div>
       </section>
